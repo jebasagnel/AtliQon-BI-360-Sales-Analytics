@@ -111,15 +111,15 @@ The platform transforms raw FMCG sales data from AWS S3 into an analytics-ready 
 
 ### Sales Analytics Dashboard
 
-![Sales Dashboard](2_dashboard_images/01_sales_overview.png)
+![Sales Dashboard](2_dashboard_images/Screenshot%202026-10-02%20220759.png)
 
 ### Filtered Dashboard View
 
-![Filtered Dashboard](2_dashboard_images/02_filtered_view.png)
+![Filtered Dashboard](2_dashboard_images/Screenshot%202026-10-02%20220855.png)
 
 ### Architecture
 
-![Architecture](2_dashboard_images/03_architecture.jpg)
+![Architecture](2_dashboard_images/project_architecture.png)
 
 ---
 
